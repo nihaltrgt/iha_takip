@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>945e02c5-4b98-4f75-8e43-4ed6c2f12bf0.jpg</filename>
+	<path>C:\Users\nihal\Desktop\train\945e02c5-4b98-4f75-8e43-4ed6c2f12bf0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1599</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arkayan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>83</ymin>
+			<xmax>1517</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>

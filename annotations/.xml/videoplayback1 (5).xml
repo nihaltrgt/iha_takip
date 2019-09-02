@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>8da46b7e-0dad-4e46-973b-a2494ff2fd51.jpg</filename>
+	<path>C:\Users\nihal\Desktop\train\8da46b7e-0dad-4e46-973b-a2494ff2fd51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1599</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>on</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>403</ymin>
+			<xmax>1589</xmax>
+			<ymax>931</ymax>
+		</bndbox>
+	</object>
+</annotation>

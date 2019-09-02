@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>789a1db1-505a-45de-861e-478f0b15a04a.jpg</filename>
+	<path>C:\Users\nihal\Desktop\train\789a1db1-505a-45de-861e-478f0b15a04a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1599</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>307</ymin>
+			<xmax>1579</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+</annotation>

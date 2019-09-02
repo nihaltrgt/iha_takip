@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (18).jpg</filename>
+	<path>C:\ımages\train\images (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>210</ymin>
+			<xmax>732</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>36ba2fe5-7e7c-4c9a-a4a8-d0a15902f6c2.jpg</filename>
+	<path>C:\Users\nihal\Desktop\train\36ba2fe5-7e7c-4c9a-a4a8-d0a15902f6c2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1599</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arka</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>1282</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

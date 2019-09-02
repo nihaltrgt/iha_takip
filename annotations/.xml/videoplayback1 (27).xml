@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hqdefault.jpg</filename>
+	<path>C:\ımages\train\hqdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>218</ymin>
+			<xmax>608</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
