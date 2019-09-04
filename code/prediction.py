@@ -4,7 +4,7 @@ from PIL import Image , ImageDraw
 
 model_id = "370ba5d1-e64d-4294-9822-a4c85412197c"
 api_key = os.environ.get('NANONETS_API_KEY')
-image_path = sys.argv[1]
+image_path = sys.argv[0]
 IM_WIDTH=640
 IM_HEIGHT=480
 
