@@ -1,12 +1,12 @@
 import requests, os, sys
 from PIL import Image , ImageDraw
 
-IM_WIDTH=640
-IM_HEIGHT=480
 
 model_id = "370ba5d1-e64d-4294-9822-a4c85412197c"
 api_key = os.environ.get('NANONETS_API_KEY')
 image_path = sys.argv[1]
+IM_WIDTH=640
+IM_HEIGHT=480
 
 url = 'https://app.nanonets.com/api/v2/ObjectDetection/Model/' + model_id + '/LabelFile/'
 
