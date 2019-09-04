@@ -13,7 +13,7 @@ url = 'https://app.nanonets.com/api/v2/ObjectDetection/Model/' + model_id + '/La
 data = {'file': open(image_path, 'rb'), 'modelId': ('', model_id)}
 
 response = requests.post(url, auth=requests.auth.HTTPBasicAuth(api_key, ''), files=data)
-result=response.json()["result"][0]
+result=response.json()["result"][1]
 TL_mainrect=(int(IM_WIDTH*0.25),int(IM_HEIGHT*0.10),[128,0,128])
 BR_mainrect=(int(IM_WIDTH*0.75),int(IM_HEIGHT*0,90),[128,0,128])
 
