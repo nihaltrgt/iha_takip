@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>72139763-9d49-4244-ab70-387e1f9f6f6d.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\72139763-9d49-4244-ab70-387e1f9f6f6d.jpg</path>
+	<filename>cddaf1f3-bfaf-49bf-867b-8258de01c0ec.jpg</filename>
+	<path>C:\Users\nihal\Desktop\train\cddaf1f3-bfaf-49bf-867b-8258de01c0ec.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yan</name>
+		<name>on</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>373</xmin>
-			<ymin>247</ymin>
-			<xmax>1533</xmax>
-			<ymax>636</ymax>
+			<xmin>42</xmin>
+			<ymin>276</ymin>
+			<xmax>1597</xmax>
+			<ymax>796</ymax>
 		</bndbox>
 	</object>
 </annotation>

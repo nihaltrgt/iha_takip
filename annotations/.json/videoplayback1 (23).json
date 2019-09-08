@@ -1,0 +1,28 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "Feiyu_Gimbal_2axisStandard007__71300.1441572789.1280.1280.jpg",
+		"path": "C:\\ımages\\train\\Feiyu_Gimbal_2axisStandard007__71300.1441572789.1280.1280.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "740",
+			"height": "576",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "image4",
+			"pose": "Unspecified",
+			"truncated": "1",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "3",
+				"ymin": "1",
+				"xmax": "737",
+				"ymax": "543"
+			}
+		}
+	}
+}

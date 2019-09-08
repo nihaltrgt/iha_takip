@@ -1,0 +1,28 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "IMG_6582.jpg",
+		"path": "C:\\ımages\\train\\IMG_6582.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "740",
+			"height": "576",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "plane",
+			"pose": "Unspecified",
+			"truncated": "0",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "369",
+				"ymin": "340",
+				"xmax": "437",
+				"ymax": "368"
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+   "annotation": {
+      "folder": "train",
+      "filename": "IMG_6852.jpg",
+      "path": "D:/images/train/IMG_6852.jpg",
+      "source": {
+         "database": "Unknown"
+      },
+      "size": {
+         "width": "740",
+         "height": "576",
+         "depth": "3"
+      },
+      "segmented": "0",
+      "object": {
+         "name": "plane",
+         "pose": "Unspecified",
+         "truncated": "1",
+         "difficult": "0",
+         "bndbox": {
+            "xmin": "285",
+            "ymin": "399",
+            "xmax": "632",
+            "ymax": "576"
+         }
+      }
+   }
+}

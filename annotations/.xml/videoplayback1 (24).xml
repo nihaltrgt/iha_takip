@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
-	<filename>e8d189b1-a901-44e7-9d09-39482405db3c.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\e8d189b1-a901-44e7-9d09-39482405db3c.jpg</path>
+	<filename>Feiyu_Gimbal_2axisStandard007__71300.1441572789.1280.1280.jpg</filename>
+	<path>C:\ımages\train\Feiyu_Gimbal_2axisStandard007__71300.1441572789.1280.1280.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1599</width>
-		<height>1200</height>
+		<width>740</width>
+		<height>576</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yan</name>
+		<name>image4</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>253</xmin>
-			<ymin>158</ymin>
-			<xmax>1377</xmax>
-			<ymax>673</ymax>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>737</xmax>
+			<ymax>543</ymax>
 		</bndbox>
 	</object>
 </annotation>

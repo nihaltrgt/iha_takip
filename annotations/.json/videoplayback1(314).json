@@ -1,0 +1,28 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "IMG_6766.jpg",
+		"path": "D:/images/train/IMG_6766.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "740",
+			"height": "576",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "plane",
+			"pose": "Unspecified",
+			"truncated": "0",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "255",
+				"ymin": "230",
+				"xmax": "381",
+				"ymax": "389"
+			}
+		}
+	}
+}

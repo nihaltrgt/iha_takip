@@ -1,0 +1,29 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "Silent-Falcon-UAS.jpg",
+		"path": "D:/images/train/Silent-Falcon-UAS.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "740",
+			"height": "576",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "plane",
+			"pose": "Unspecified",
+			"truncated": "0",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "17",
+				"ymin": "133",
+				"xmax": "669",
+				"ymax": "544"
+			}
+		},
+		"_verified": "yes"
+	}
+}

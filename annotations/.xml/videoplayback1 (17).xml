@@ -1,26 +1,38 @@
 <annotation>
 	<folder>train</folder>
-	<filename>66610e0b-8c73-4c4c-a39c-77c50b3965e2.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\66610e0b-8c73-4c4c-a39c-77c50b3965e2.jpg</path>
+	<filename>56899774_736394873421576_7985838289058731747_n.jpg</filename>
+	<path>C:\ımages\train\56899774_736394873421576_7985838289058731747_n.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1599</width>
-		<height>1200</height>
+		<width>740</width>
+		<height>576</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arka</name>
+		<name>image2</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>325</ymin>
-			<xmax>1599</xmax>
-			<ymax>787</ymax>
+			<xmin>111</xmin>
+			<ymin>382</ymin>
+			<xmax>337</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>368</ymin>
+			<xmax>595</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,28 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "f39040a6-8e98-46a0-bdbd-1f86e12c8089.jpg",
+		"path": "C:\\Users\\nihal\\Desktop\\train\\f39040a6-8e98-46a0-bdbd-1f86e12c8089.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "1599",
+			"height": "1200",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "yan",
+			"pose": "Unspecified",
+			"truncated": "0",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "119",
+				"ymin": "407",
+				"xmax": "1588",
+				"ymax": "1125"
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+   "annotation": {
+      "folder": "train",
+      "filename": "indir (1).jpg",
+      "path": "D:/images/train/indir (1).jpg",
+      "source": {
+         "database": "Unknown"
+      },
+      "size": {
+         "width": "740",
+         "height": "576",
+         "depth": "3"
+      },
+      "segmented": "0",
+      "object": {
+         "name": "plane",
+         "pose": "Unspecified",
+         "truncated": "0",
+         "difficult": "0",
+         "bndbox": {
+            "xmin": "57",
+            "ymin": "56",
+            "xmax": "667",
+            "ymax": "543"
+         }
+      },
+      "_verified": "yes"
+   }
+}

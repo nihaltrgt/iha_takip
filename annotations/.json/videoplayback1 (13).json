@@ -1,0 +1,28 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "5112ab4c-f3c5-446c-831d-cb17e351b067.jpg",
+		"path": "C:\\Users\\nihal\\Desktop\\train\\5112ab4c-f3c5-446c-831d-cb17e351b067.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "1599",
+			"height": "1200",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "arkayan",
+			"pose": "Unspecified",
+			"truncated": "0",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "6",
+				"ymin": "213",
+				"xmax": "1542",
+				"ymax": "643"
+			}
+		}
+	}
+}

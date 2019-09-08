@@ -1,0 +1,29 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "uav.jpg",
+		"path": "D:/images/train/uav.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "740",
+			"height": "576",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "plane",
+			"pose": "Unspecified",
+			"truncated": "1",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "25",
+				"ymin": "94",
+				"xmax": "692",
+				"ymax": "576"
+			}
+		},
+		"_verified": "yes"
+	}
+}

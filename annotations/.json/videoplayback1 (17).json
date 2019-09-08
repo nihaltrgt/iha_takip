@@ -1,0 +1,42 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "56899774_736394873421576_7985838289058731747_n.jpg",
+		"path": "C:\\ımages\\train\\56899774_736394873421576_7985838289058731747_n.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "740",
+			"height": "576",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": [
+			{
+				"name": "image2",
+				"pose": "Unspecified",
+				"truncated": "0",
+				"difficult": "0",
+				"bndbox": {
+					"xmin": "111",
+					"ymin": "382",
+					"xmax": "337",
+					"ymax": "476"
+				}
+			},
+			{
+				"name": "image3",
+				"pose": "Unspecified",
+				"truncated": "0",
+				"difficult": "0",
+				"bndbox": {
+					"xmin": "337",
+					"ymin": "368",
+					"xmax": "595",
+					"ymax": "476"
+				}
+			}
+		]
+	}
+}

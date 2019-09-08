@@ -1,0 +1,29 @@
+{
+   "annotation": {
+      "folder": "train",
+      "filename": "IMG_20190831_220104_1.jpg",
+      "path": "D:/images/train/IMG_20190831_220104_1.jpg",
+      "source": {
+         "database": "Unknown"
+      },
+      "size": {
+         "width": "740",
+         "height": "576",
+         "depth": "3"
+      },
+      "segmented": "0",
+      "object": {
+         "name": "plane",
+         "pose": "Unspecified",
+         "truncated": "1",
+         "difficult": "0",
+         "bndbox": {
+            "xmin": "202",
+            "ymin": "374",
+            "xmax": "626",
+            "ymax": "576"
+         }
+      },
+      "_verified": "yes"
+   }
+}

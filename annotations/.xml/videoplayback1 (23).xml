@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>cf551b48-7b2a-48dc-a4d3-d774bf584fec.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\cf551b48-7b2a-48dc-a4d3-d774bf584fec.jpg</path>
+	<filename>f39040a6-8e98-46a0-bdbd-1f86e12c8089.jpg</filename>
+	<path>C:\Users\nihal\Desktop\train\f39040a6-8e98-46a0-bdbd-1f86e12c8089.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>137</xmin>
-			<ymin>173</ymin>
-			<xmax>1515</xmax>
-			<ymax>883</ymax>
+			<xmin>119</xmin>
+			<ymin>407</ymin>
+			<xmax>1588</xmax>
+			<ymax>1125</ymax>
 		</bndbox>
 	</object>
 </annotation>

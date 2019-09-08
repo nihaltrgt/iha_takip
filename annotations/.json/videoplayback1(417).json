@@ -1,0 +1,28 @@
+{
+   "annotation": {
+      "folder": "train",
+      "filename": "IMG_7566.jpg",
+      "path": "D:/images/train/IMG_7566.jpg",
+      "source": {
+         "database": "Unknown"
+      },
+      "size": {
+         "width": "740",
+         "height": "576",
+         "depth": "3"
+      },
+      "segmented": "0",
+      "object": {
+         "name": "plane",
+         "pose": "Unspecified",
+         "truncated": "0",
+         "difficult": "0",
+         "bndbox": {
+            "xmin": "339",
+            "ymin": "252",
+            "xmax": "429",
+            "ymax": "339"
+         }
+      }
+   }
+}

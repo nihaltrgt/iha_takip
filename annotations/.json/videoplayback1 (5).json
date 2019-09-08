@@ -1,0 +1,28 @@
+﻿{
+	"annotation": {
+		"folder": "train",
+		"filename": "14d54004-3748-4ffa-a92a-83746b2198fc.jpg",
+		"path": "C:\\Users\\nihal\\Desktop\\train\\14d54004-3748-4ffa-a92a-83746b2198fc.jpg",
+		"source": {
+			"database": "Unknown"
+		},
+		"size": {
+			"width": "1599",
+			"height": "1200",
+			"depth": "3"
+		},
+		"segmented": "0",
+		"object": {
+			"name": "arka",
+			"pose": "Unspecified",
+			"truncated": "1",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "77",
+				"ymin": "80",
+				"xmax": "1599",
+				"ymax": "534"
+			}
+		}
+	}
+}
