@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Feiyu_Gimbal_2axisStandard007__71300.1441572789.1280.1280.jpg</filename>
-	<path>C:\ımages\train\Feiyu_Gimbal_2axisStandard007__71300.1441572789.1280.1280.jpg</path>
+	<filename>IMG_6226.jpg</filename>
+	<path>C:\ımages\train\IMG_6226.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>image4</name>
+		<name>plane</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3</xmin>
-			<ymin>1</ymin>
-			<xmax>737</xmax>
-			<ymax>543</ymax>
+			<xmin>318</xmin>
+			<ymin>337</ymin>
+			<xmax>388</xmax>
+			<ymax>392</ymax>
 		</bndbox>
 	</object>
 </annotation>

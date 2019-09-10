@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
-	<filename>35eb0898-f7e6-4af1-8fbe-ced1d13be024.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\35eb0898-f7e6-4af1-8fbe-ced1d13be024.jpg</path>
+	<filename>images (24).jpg</filename>
+	<path>C:\ımages\train\images (24).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1599</width>
-		<height>1200</height>
+		<width>740</width>
+		<height>576</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yan</name>
+		<name>plane</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>153</xmin>
-			<ymin>322</ymin>
-			<xmax>1089</xmax>
-			<ymax>647</ymax>
+			<xmin>2</xmin>
+			<ymin>161</ymin>
+			<xmax>732</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,8 +1,8 @@
 ﻿{
 	"annotation": {
 		"folder": "train",
-		"filename": "images (13) - Kopya.jpg",
-		"path": "C:\\ımages\\train\\images (13) - Kopya.jpg",
+		"filename": "IMG_6633.jpg",
+		"path": "C:\\ımages\\train\\IMG_6633.jpg",
 		"source": {
 			"database": "Unknown"
 		},
@@ -15,13 +15,13 @@
 		"object": {
 			"name": "plane",
 			"pose": "Unspecified",
-			"truncated": "1",
+			"truncated": "0",
 			"difficult": "0",
 			"bndbox": {
-				"xmin": "1",
-				"ymin": "208",
-				"xmax": "692",
-				"ymax": "509"
+				"xmin": "121",
+				"ymin": "343",
+				"xmax": "178",
+				"ymax": "415"
 			}
 		}
 	}

@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
-	<filename>83535f98-5267-4d7b-bfec-65fd1a413404.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\83535f98-5267-4d7b-bfec-65fd1a413404.jpg</path>
+	<filename>IMG_5848.jpg</filename>
+	<path>C:\ımages\train\IMG_5848.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1599</width>
-		<height>1200</height>
+		<width>740</width>
+		<height>576</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arka</name>
+		<name>plane</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
-			<ymin>236</ymin>
-			<xmax>1579</xmax>
-			<ymax>662</ymax>
+			<xmin>379</xmin>
+			<ymin>287</ymin>
+			<xmax>411</xmax>
+			<ymax>354</ymax>
 		</bndbox>
 	</object>
 </annotation>

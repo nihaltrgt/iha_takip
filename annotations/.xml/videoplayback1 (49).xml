@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>images (26).jpg</filename>
-	<path>C:\ımages\train\images (26).jpg</path>
+	<filename>IMG_6815.jpg</filename>
+	<path>D:/images/train/IMG_6815.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>plane</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>171</ymin>
-			<xmax>738</xmax>
-			<ymax>460</ymax>
+			<xmin>331</xmin>
+			<ymin>3</ymin>
+			<xmax>539</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>

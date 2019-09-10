@@ -1,8 +1,8 @@
 ﻿{
 	"annotation": {
 		"folder": "train",
-		"filename": "images (12).jpg",
-		"path": "C:\\ımages\\train\\images (12).jpg",
+		"filename": "IMG_6625.jpg",
+		"path": "C:\\ımages\\train\\IMG_6625.jpg",
 		"source": {
 			"database": "Unknown"
 		},
@@ -12,55 +12,17 @@
 			"depth": "3"
 		},
 		"segmented": "0",
-		"object": [
-			{
-				"name": "plane",
-				"pose": "Unspecified",
-				"truncated": "1",
-				"difficult": "0",
-				"bndbox": {
-					"xmin": "1",
-					"ymin": "57",
-					"xmax": "373",
-					"ymax": "296"
-				}
-			},
-			{
-				"name": "plane",
-				"pose": "Unspecified",
-				"truncated": "0",
-				"difficult": "0",
-				"bndbox": {
-					"xmin": "373",
-					"ymin": "11",
-					"xmax": "736",
-					"ymax": "286"
-				}
-			},
-			{
-				"name": "plane",
-				"pose": "Unspecified",
-				"truncated": "0",
-				"difficult": "0",
-				"bndbox": {
-					"xmin": "7",
-					"ymin": "339",
-					"xmax": "351",
-					"ymax": "516"
-				}
-			},
-			{
-				"name": "plane",
-				"pose": "Unspecified",
-				"truncated": "0",
-				"difficult": "0",
-				"bndbox": {
-					"xmin": "379",
-					"ymin": "315",
-					"xmax": "739",
-					"ymax": "563"
-				}
+		"object": {
+			"name": "plane",
+			"pose": "Unspecified",
+			"truncated": "0",
+			"difficult": "0",
+			"bndbox": {
+				"xmin": "337",
+				"ymin": "267",
+				"xmax": "401",
+				"ymax": "308"
 			}
-		]
+		}
 	}
 }

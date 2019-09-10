@@ -1,28 +1,28 @@
-﻿{
-	"annotation": {
-		"folder": "train",
-		"filename": "images (26).jpg",
-		"path": "C:\\ımages\\train\\images (26).jpg",
-		"source": {
-			"database": "Unknown"
-		},
-		"size": {
-			"width": "740",
-			"height": "576",
-			"depth": "3"
-		},
-		"segmented": "0",
-		"object": {
-			"name": "plane",
-			"pose": "Unspecified",
-			"truncated": "1",
-			"difficult": "0",
-			"bndbox": {
-				"xmin": "1",
-				"ymin": "171",
-				"xmax": "738",
-				"ymax": "460"
-			}
-		}
-	}
+{
+   "annotation": {
+      "folder": "train",
+      "filename": "IMG_6851.jpg",
+      "path": "D:/images/train/IMG_6851.jpg",
+      "source": {
+         "database": "Unknown"
+      },
+      "size": {
+         "width": "740",
+         "height": "576",
+         "depth": "3"
+      },
+      "segmented": "0",
+      "object": {
+         "name": "plane",
+         "pose": "Unspecified",
+         "truncated": "0",
+         "difficult": "0",
+         "bndbox": {
+            "xmin": "274",
+            "ymin": "409",
+            "xmax": "597",
+            "ymax": "571"
+         }
+      }
+   }
 }

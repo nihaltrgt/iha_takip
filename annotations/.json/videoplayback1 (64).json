@@ -1,28 +1,29 @@
-﻿{
-	"annotation": {
-		"folder": "train",
-		"filename": "images (41).jpg",
-		"path": "C:\\ımages\\train\\images (41).jpg",
-		"source": {
-			"database": "Unknown"
-		},
-		"size": {
-			"width": "740",
-			"height": "576",
-			"depth": "3"
-		},
-		"segmented": "0",
-		"object": {
-			"name": "plane",
-			"pose": "Unspecified",
-			"truncated": "0",
-			"difficult": "0",
-			"bndbox": {
-				"xmin": "3",
-				"ymin": "136",
-				"xmax": "737",
-				"ymax": "422"
-			}
-		}
-	}
+{
+   "annotation": {
+      "folder": "train",
+      "filename": "IMG_20190831_212853.jpg",
+      "path": "D:/images/train/IMG_20190831_212853.jpg",
+      "source": {
+         "database": "Unknown"
+      },
+      "size": {
+         "width": "740",
+         "height": "576",
+         "depth": "3"
+      },
+      "segmented": "0",
+      "object": {
+         "name": "plane",
+         "pose": "Unspecified",
+         "truncated": "0",
+         "difficult": "0",
+         "bndbox": {
+            "xmin": "26",
+            "ymin": "28",
+            "xmax": "731",
+            "ymax": "385"
+         }
+      },
+      "_verified": "yes"
+   }
 }

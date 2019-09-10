@@ -1,27 +1,27 @@
 ﻿{
 	"annotation": {
 		"folder": "train",
-		"filename": "14d54004-3748-4ffa-a92a-83746b2198fc.jpg",
-		"path": "C:\\Users\\nihal\\Desktop\\train\\14d54004-3748-4ffa-a92a-83746b2198fc.jpg",
+		"filename": "images (23).jpg",
+		"path": "C:\\ımages\\train\\images (23).jpg",
 		"source": {
 			"database": "Unknown"
 		},
 		"size": {
-			"width": "1599",
-			"height": "1200",
+			"width": "740",
+			"height": "576",
 			"depth": "3"
 		},
 		"segmented": "0",
 		"object": {
-			"name": "arka",
+			"name": "plane",
 			"pose": "Unspecified",
-			"truncated": "1",
+			"truncated": "0",
 			"difficult": "0",
 			"bndbox": {
-				"xmin": "77",
-				"ymin": "80",
-				"xmax": "1599",
-				"ymax": "534"
+				"xmin": "124",
+				"ymin": "94",
+				"xmax": "642",
+				"ymax": "448"
 			}
 		}
 	}

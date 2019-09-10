@@ -1,27 +1,27 @@
 ﻿{
 	"annotation": {
 		"folder": "train",
-		"filename": "945e02c5-4b98-4f75-8e43-4ed6c2f12bf0.jpg",
-		"path": "C:\\Users\\nihal\\Desktop\\train\\945e02c5-4b98-4f75-8e43-4ed6c2f12bf0.jpg",
+		"filename": "images (72).jpg",
+		"path": "C:\\ımages\\train\\images (72).jpg",
 		"source": {
 			"database": "Unknown"
 		},
 		"size": {
-			"width": "1599",
-			"height": "1200",
+			"width": "740",
+			"height": "576",
 			"depth": "3"
 		},
 		"segmented": "0",
 		"object": {
-			"name": "arkayan",
+			"name": "plane",
 			"pose": "Unspecified",
 			"truncated": "0",
 			"difficult": "0",
 			"bndbox": {
-				"xmin": "4",
-				"ymin": "83",
-				"xmax": "1517",
-				"ymax": "783"
+				"xmin": "89",
+				"ymin": "152",
+				"xmax": "711",
+				"ymax": "483"
 			}
 		}
 	}

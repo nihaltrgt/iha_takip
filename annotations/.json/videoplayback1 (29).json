@@ -1,8 +1,8 @@
 ﻿{
 	"annotation": {
 		"folder": "train",
-		"filename": "images (8).jpg",
-		"path": "C:\\ımages\\train\\images (8).jpg",
+		"filename": "IMG_6286.jpg",
+		"path": "C:\\ımages\\train\\IMG_6286.jpg",
 		"source": {
 			"database": "Unknown"
 		},
@@ -18,10 +18,10 @@
 			"truncated": "0",
 			"difficult": "0",
 			"bndbox": {
-				"xmin": "272",
-				"ymin": "82",
-				"xmax": "660",
-				"ymax": "248"
+				"xmin": "350",
+				"ymin": "341",
+				"xmax": "481",
+				"ymax": "381"
 			}
 		}
 	}

@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
-	<filename>ca814b1f-fe71-4c7e-9ace-fd10af4ae08b.jpg</filename>
-	<path>C:\Users\nihal\Desktop\train\ca814b1f-fe71-4c7e-9ace-fd10af4ae08b.jpg</path>
+	<filename>IMG_5901.jpg</filename>
+	<path>C:\ımages\train\IMG_5901.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1599</width>
-		<height>1200</height>
+		<width>740</width>
+		<height>576</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arkayan</name>
+		<name>plane</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>117</xmin>
-			<ymin>169</ymin>
-			<xmax>1599</xmax>
-			<ymax>604</ymax>
+			<xmin>358</xmin>
+			<ymin>246</ymin>
+			<xmax>434</xmax>
+			<ymax>357</ymax>
 		</bndbox>
 	</object>
 </annotation>

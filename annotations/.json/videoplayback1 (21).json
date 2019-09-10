@@ -1,27 +1,27 @@
 ﻿{
 	"annotation": {
 		"folder": "train",
-		"filename": "e8d189b1-a901-44e7-9d09-39482405db3c.jpg",
-		"path": "C:\\Users\\nihal\\Desktop\\train\\e8d189b1-a901-44e7-9d09-39482405db3c.jpg",
+		"filename": "IMG_5999.jpg",
+		"path": "C:\\ımages\\train\\IMG_5999.jpg",
 		"source": {
 			"database": "Unknown"
 		},
 		"size": {
-			"width": "1599",
-			"height": "1200",
+			"width": "740",
+			"height": "576",
 			"depth": "3"
 		},
 		"segmented": "0",
 		"object": {
-			"name": "yan",
+			"name": "plane",
 			"pose": "Unspecified",
 			"truncated": "0",
 			"difficult": "0",
 			"bndbox": {
-				"xmin": "253",
-				"ymin": "158",
-				"xmax": "1377",
-				"ymax": "673"
+				"xmin": "151",
+				"ymin": "277",
+				"xmax": "335",
+				"ymax": "503"
 			}
 		}
 	}
